@@ -43,9 +43,9 @@ Compared model performance using test accuracy.
 ## Results
 
 Model	Test Accuracy
-Decision Tree Classifier	94.44%
-Support Vector Machine (SVM)	83.33%
-K-Nearest Neighbors (KNN)	83.33%
+Decision Tree Classifier	94.44%,
+Support Vector Machine (SVM)	83.33%,
+K-Nearest Neighbors (KNN)	83.33%.
 
 The Decision Tree Classifier achieved the highest test accuracy, making it the most effective model for predicting Falcon 9 first-stage landing success.
 
