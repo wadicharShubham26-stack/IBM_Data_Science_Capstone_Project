@@ -39,7 +39,9 @@ Decision Tree Classifier
 K-Nearest Neighbors (KNN)
 Applied GridSearchCV to optimize model hyperparameters.
 Compared model performance using test accuracy.
-Results
+
+## Results
+
 Model	Test Accuracy
 Decision Tree Classifier	94.44%
 Support Vector Machine (SVM)	83.33%
@@ -47,6 +49,6 @@ K-Nearest Neighbors (KNN)	83.33%
 
 The Decision Tree Classifier achieved the highest test accuracy, making it the most effective model for predicting Falcon 9 first-stage landing success.
 
-Conclusion
+## Conclusion
 
 This capstone project demonstrates a complete data science pipeline, from collecting raw data to deploying predictive machine learning models. By combining API data, web scraping, SQL analysis, interactive visualizations, and supervised learning techniques, the project successfully predicts Falcon 9 landing outcomes. The workflow highlights practical applications of data science in aerospace analytics and provides insights that can assist in evaluating launch costs and mission success probabilities.
